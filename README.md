@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SujitDasgupta
+- 👋 Hi, I’m @SujitDasgupta https://www.linkedin.com/in/sujitdasgupta/
 - 👀 I’m interested in IT HIRING 
 - 🌱 I’m currently learning LLM BARD CHAT GPT 
 - 💞️ I’m looking to collaborate on HIRING
